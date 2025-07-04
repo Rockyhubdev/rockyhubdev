@@ -7,7 +7,7 @@
 
 ## 🧑‍💻 About Me
 
-🌟 **Rocky** (He/Him) — Owner & Creator at **Code Labs Studio**.  
+🌟 **Rocky** (He/Him).  
 💼 Professional in development, programming, and advanced automation.  
 🤖 I fully leverage **AI** to build real solutions and accelerate projects.  
 💡 My mindset: *Create, Learn, Improve, Repeat*.  
@@ -54,19 +54,6 @@
 <p>
   <a href="https://t.me/Rockyglp"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </p>
-
----
-
-## 🌟 Featured Projects
-
-✨ Projects I'm proud of:
-
-- 🔥 **CodeWave** — Modular engine for high-performance apps (Node.js)
-- 🎛 **AutoFlux** — AI-powered automated publishing system
-- 📡 **API Sentinel** — API monitoring with smart alerts
-- 🎨 **PixelDash** — Animated dashboard for live metrics
-- ⚙️ **TaskForge** — Team-focused task automation system
-- 📦 **PackTrack CLI** — CLI tool for real-time parcel tracking
 
 ---
 
